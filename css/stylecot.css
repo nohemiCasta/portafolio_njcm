@@ -1,0 +1,57 @@
+
+.card1{
+    
+    border-color:#68e8b9 !important;
+    font-size: 20px;
+    color: grey;
+}
+
+input.form-control{
+    background-color: #68e8b94a;
+    border-color:#68e8b9 !important;
+}
+select.form-control{
+    background-color: #68e8b94a;
+    border-color:#68e8b9 !important;
+}
+
+
+.bt1{
+    border-color:#68e8b9 !important;
+    background-color: #44b98e !important;
+}
+/* div.dropdown-menu{
+    background-color: #ffaca378;
+    border-color:#ffaca378;
+}
+
+
+
+/* Card texto yo soy */
+
+/* div.styleCard2{
+    border: none;
+}
+
+h5.textoTitulo{
+    text-align: center;
+    color: rgb(126, 126, 126);
+}
+
+p.textoPrincipal{
+    text-align: center;
+    color: rgb(126, 126, 126);
+}
+
+/* Fotter*/
+/* div.card-footer{
+background-color: rgb(124, 124, 250);
+color:white;
+}
+.cardfotfon{
+    background-color:#FFACA3;
+}
+.iconred{
+color: white;
+font-size: 22px;
+} */ 
